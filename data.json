@@ -1,0 +1,28 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "name": "Fox",
+      "breed": "Foxhound",
+      "age": 1,
+      "photo": "foxhound-puppy.jpg",
+      "sex": "Macho"
+    },
+    {
+      "id": 2,
+      "name": "Toddy",
+      "breed": "Poodle",
+      "age": 8,
+      "photo": "poodle.jpg",
+      "sex": "Macho"
+    },
+    {
+      "id": 3,
+      "name": "Sansa",
+      "breed": "Schnauzer",
+      "age": 5,
+      "photo": "schnauzer.jpg",
+      "sex": "Hembra"
+    }
+  ]
+}
