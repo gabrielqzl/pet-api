@@ -1,12 +1,12 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "NombreUsuario",
       "email": "usuario@example.com",
       "pets": [
         {
-          "id": 1,
+          "id": "1",
           "name": "Fox",
           "breed": "Foxhound",
           "age": 1,
@@ -15,7 +15,7 @@
           "alarm": false
         },
         {
-          "id": 2,
+          "id": "2",
           "name": "Toddy",
           "breed": "Poodle",
           "age": 8,
@@ -24,7 +24,7 @@
           "alarm": false
         },
         {
-          "id": 3,
+          "id": "3",
           "name": "Sansa",
           "breed": "Schnauzer",
           "age": 5,
