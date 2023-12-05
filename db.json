@@ -1,36 +1,43 @@
 {
   "users": [
     {
-      "id": "1",
-      "name": "NombreUsuario",
-      "email": "usuario@example.com",
+      "id": 1,
+      "name": "Emily",
+      "email": "usuario1@example.com",
       "pets": [
         {
-          "id": "1",
-          "name": "Fox",
-          "breed": "Foxhound",
-          "age": 1,
-          "photo": "foxhound-puppy.jpg",
-          "sex": "Macho",
-          "alarm": false
-        },
-        {
-          "id": "2",
+          "id": 1,
           "name": "Toddy",
           "breed": "Poodle",
           "age": 8,
-          "photo": "poodle.jpg",
           "sex": "Macho",
-          "alarm": false
+          "photo": "poodle.jpg",
+          "isAlarmActive": false
         },
         {
-          "id": "3",
+          "id": 2,
+          "name": "Fox",
+          "breed": "Foxhound",
+          "age": 1,
+          "sex": "Macho",
+          "photo": "foxhound-puppy.jpg",
+          "isAlarmActive": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Lucas",
+      "email": "usuario2@example.com",
+      "pets": [
+        {
+          "id": 3,
           "name": "Sansa",
           "breed": "Schnauzer",
           "age": 5,
-          "photo": "schnauzer.jpg",
           "sex": "Hembra",
-          "alarm": false
+          "photo": "schnauzer.jpg",
+          "isAlarmActive": false
         }
       ]
     }
