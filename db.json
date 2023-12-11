@@ -40,6 +40,48 @@
           "isAlarmActive": false
         }
       ]
+    },
+    {
+      "id": 3,
+      "name": "Adhara",
+      "email": "usuario2@example.com",
+      "pets": [
+        {
+          "id": 1,
+          "name": "Toddy",
+          "breed": "Poodle",
+          "age": 8,
+          "sex": "Macho",
+          "photo": "poodle.jpg",
+          "isAlarmActive": false
+        },
+        {
+          "id": 2,
+          "name": "Fox",
+          "breed": "Foxhound",
+          "age": 1,
+          "sex": "Macho",
+          "photo": "foxhound-puppy.jpg",
+          "isAlarmActive": true
+        },
+        {
+          "id": 3,
+          "name": "Sansa",
+          "breed": "Schnauzer",
+          "age": 5,
+          "sex": "Hembra",
+          "photo": "schnauzer.jpg",
+          "isAlarmActive": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Isaias",
+      "email": "usuario2@example.com",
+      "pets": [
+        
+      ]
     }
   ]
 }
