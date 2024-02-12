@@ -22,6 +22,15 @@
           "sex": "Macho",
           "photo": "foxhound-puppy.jpg",
           "isAlarmActive": true
+        },
+        {
+          "id": 3,
+          "name": "Sansa",
+          "breed": "Schnauzer",
+          "age": 5,
+          "sex": "Hembra",
+          "photo": "schnauzer.jpg",
+          "isAlarmActive": false
         }
       ]
     },
